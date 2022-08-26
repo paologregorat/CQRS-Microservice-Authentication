@@ -1,0 +1,1 @@
+2022-08-23 11:57:08.838 +02:00 [INF] Authentication.Controllers.OperatoriController - Start:  Authentication.Controllers.OperatoriController.Logon

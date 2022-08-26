@@ -1,0 +1,4 @@
+2022-08-24 14:18:37.357 +02:00 [INF] CQRSSAmple.Controllers.OperatoriController - Start:  CQRSSAmple.Controllers.OperatoriController.Logon
+2022-08-24 14:19:28.545 +02:00 [INF] CQRSSAmple.Controllers.OperatoriController - Start:  CQRSSAmple.Controllers.OperatoriController.Logon
+2022-08-24 14:19:49.049 +02:00 [INF] CQRSSAmple.Controllers.OperatoriController - Start:  CQRSSAmple.Controllers.OperatoriController+<Post>d__4.MoveNext
+2022-08-24 14:20:26.830 +02:00 [INF] CQRSSAmple.Controllers.EntityOneController - Start:  CQRSSAmple.Controllers.EntityOneController+<GetAll>d__2.MoveNext
